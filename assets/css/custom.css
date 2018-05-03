@@ -1,0 +1,20 @@
+#jumboBack {
+    background-image: url('../img/downtown_orig.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding: 7rem 0;
+}
+
+.mastinfo {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 2rem;
+}
+
+.mastinfo {
+    border-radius: 1rem;
+}
+
+.img-fluid {
+    border-radius: .75rem;
+}
